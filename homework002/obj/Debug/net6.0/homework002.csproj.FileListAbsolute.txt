@@ -1,0 +1,15 @@
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/bin/Debug/net6.0/homework002
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/bin/Debug/net6.0/homework002.deps.json
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/bin/Debug/net6.0/homework002.runtimeconfig.json
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/bin/Debug/net6.0/homework002.dll
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/bin/Debug/net6.0/homework002.pdb
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.csproj.AssemblyReference.cache
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.AssemblyInfoInputs.cache
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.AssemblyInfo.cs
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.csproj.CoreCompileInputs.cache
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.dll
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/refint/homework002.dll
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.pdb
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/homework002.genruntimeconfig.cache
+/Users/roman.barbarossa/Documents/Репозитории по семинарам/Seminar002_C#_Homework/homework002/obj/Debug/net6.0/ref/homework002.dll
