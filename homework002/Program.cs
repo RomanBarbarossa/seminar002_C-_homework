@@ -63,6 +63,8 @@
 
 Console.Write("Введите число:  ");
 int day = int.Parse(Console.ReadLine()!);
+int dayoff1 = 6;
+int dayoff2 = 7;
 if(day == 1)
 {
     Console.WriteLine("Понедельник");
@@ -95,7 +97,7 @@ if(day > 7 || day < 1)
 {
     Console.WriteLine("Fatal Error. Choose again");
 }
-if(day == 7 || day == 6)
+if(day == dayoff1 || day == dayoff2)
 {
     Console.WriteLine("Выходной");
 }
