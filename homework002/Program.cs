@@ -39,3 +39,63 @@
 //     Console.WriteLine("Ошибка! Вы ввели число больше нужного");
 // }
 
+//  Решение2:
+// Console.WriteLine("Введите число  ");
+// string number = Console.ReadLine()!;
+
+// if(number.Length > 6)
+// {
+//     Console.WriteLine("Ошибка,вы ввели число ,более 100000");
+// }
+  
+// if(number.Length < 3)
+// {
+//     Console.WriteLine("Третьей цифры нет!");
+// }
+//   else
+//     {
+//         Console.WriteLine(number[2]);
+//     }
+
+// Задача 3: Напишите программу, которая принимает на вход цифру, 
+// обозначающую день недели, и проверяет, является ли этот день выходным. 
+// Обязательна проверка на ввод числа <1 и >7
+
+Console.Write("Введите число:  ");
+int day = int.Parse(Console.ReadLine()!);
+if(day == 1)
+{
+    Console.WriteLine("Понедельник");
+}
+if(day == 2)
+{
+    Console.WriteLine("Вторник");
+}
+if(day == 3)
+{
+    Console.WriteLine("Среда");
+}
+if(day == 4)
+{
+    Console.WriteLine("Четверг");
+}
+if(day == 5)
+{
+    Console.WriteLine("Пятница");
+}
+if(day == 6)
+{
+    Console.WriteLine("Суббота");
+}
+if(day == 7)
+{
+    Console.WriteLine("Воскресенье");
+}
+if(day > 7 || day < 1)
+{
+    Console.WriteLine("Fatal Error. Choose again");
+}
+if(day == 7 || day == 6)
+{
+    Console.WriteLine("Выходной");
+}
